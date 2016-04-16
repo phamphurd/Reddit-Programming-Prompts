@@ -3,6 +3,7 @@
  * Write a program that takes in a string from the user (or if you want, a file!)
  * and prints all the characters' ascii values summed up to the user. 
  * For Example: The above paragraph's ascii sum is 13,124
+ * https://www.reddit.com/r/ProgrammingPrompts/comments/457nkn/easy_make_an_ascii_summation_calculator/
  */
 
 import java.io.BufferedReader;
